@@ -55,7 +55,6 @@ export interface User {
 
 export interface Category {
   id: string;
-  label: string;  
-  name: string;
+  label: string;    
   icon?: string;
 }

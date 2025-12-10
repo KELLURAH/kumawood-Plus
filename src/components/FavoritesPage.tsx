@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Heart, Film, Tv, Music, Video, ArrowDownAZ, Star, Clock, Search } from 'lucide-react';
+import { Heart, Film, Tv, Music, Video, Search } from 'lucide-react';
 import MovieCard from './MovieCard';
 import type { Movie } from '../types';
 

@@ -1,4 +1,4 @@
-import { Home, Heart, Calendar, TrendingUp, Music, HelpCircle, Film, Monitor, Video } from 'lucide-react';
+ import { Home, Heart,  TrendingUp, Music, HelpCircle,  Video } from 'lucide-react';
 import type { NavItem, Movie, Category, User } from './types';
 
 export const NAV_ITEMS: NavItem[] = [
