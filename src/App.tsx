@@ -4,7 +4,6 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import CategoryTabs from './components/CategoryTabs';
 import MovieCard from './components/MovieCard';
-import MovieRow from './components/MovieRow';
 import MovieDetail from './components/MovieDetail';
 import MusicVideoPage from './components/MusicVideoPage';
 import MusicVideoDetail from './components/MusicVideoDetail';

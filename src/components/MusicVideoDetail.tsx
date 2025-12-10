@@ -13,7 +13,7 @@ import {
   MoreVertical,
   ThumbsUp,
   Eye,
-  Disc
+  
 } from 'lucide-react';
 import type { Movie } from '../types';
 import MovieRow from './MovieRow';

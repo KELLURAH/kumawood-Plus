@@ -3,12 +3,8 @@ import {
   Play, 
   ArrowLeft, 
   Share2, 
-  Heart, 
   Plus, 
-  MessageSquare, 
   ThumbsUp,
-  Smile,
-  Users,
   Bell
 } from 'lucide-react';
 import type { Movie } from '../types';

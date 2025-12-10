@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Star, Play, Mic2, MoreVertical, Heart, Smile } from 'lucide-react';
+import { Star, Play, , MoreVertical, Heart, } from 'lucide-react';
 import type { Movie } from '../types';
 import { fetchMoviePoster } from '../services/tmdb';
 
